@@ -1,4 +1,6 @@
-# Telegram-bot-for-recognizing-architecture-by-style
+# Telegram-bot-for-recognizing-architecture-by-sty
+
+БОТ В РАЗРАБОТКЕ :(
 
 ## Импортирование нужных библиотек
 
@@ -31,13 +33,15 @@
 - import shutil
 - import cv2
 
-Чтобы не скачивать библиотеки мы можем воспользоваться [google colab](https://colab.research.google.com).
+- Чтобы не скачивать библиотеки мы можем воспользоваться [google colab](https://colab.research.google.com/drive/1WSKY-OKt5lbk8QyyqN5eWm75RC8ZzhwF?usp=sharing).
+- Датасет [здесь](https://www.kaggle.com/wwymak/architecture-dataset).
 
 ## Использование
 
 Это наш тренеровочный проект, который был сделан за несколько дней в школе информационных технологий, которая проходила в ХМАО, поэтому не судите строго :)
 Данный бот определяет стиль архитектурного здания.
 
-Нужно загрузить данные файлы: '', '', '', '', '', '', '', '', ''.
+Нужно загрузить данные файлы: 'kaggle.json', 'model_arc6_1.pt'
+
 
 
